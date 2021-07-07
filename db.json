@@ -1,4 +1,4 @@
-[
+{"data": [
     {
       "name": "Moana",
       "totalViews": {
@@ -210,3 +210,4 @@
       "genre": ["kids", "movies", "animation"]
     }
   ]
+}
